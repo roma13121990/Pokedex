@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PokemonListItem /> snapshot from pokemon list with data from localstore 1`] = `
+<div
+  className="pokemon--species"
+>
+  <ul
+    className="pokemon--species--container"
+  >
+    <li
+      className="pokemon--species--name"
+    >
+      Pikachu
+    </li>
+    <li
+      className="pokemon--species--sprite"
+    >
+      <div>
+        <img
+          alt="pikachu"
+          src="pikachu.jpg"
+          title="pikachu"
+        />
+      </div>
+    </li>
+  </ul>
+</div>
+`;

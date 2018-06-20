@@ -1,0 +1,38 @@
+{
+  "name": "Pokedex",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "babel-preset-react-app": "^3.1.1",
+    "react-scripts": "^1.1.4"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "axios-mock-adapter": "^1.15.0",
+    "babel-polyfill": "^6.26.0",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "isomorphic-fetch": "^2.2.1",
+    "jest": "^22.4.3",
+    "jsdom": "^11.10.0",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.1",
+    "react-confirm-bootstrap": "^5.2.1",
+    "react-dom": "^16.3.1",
+    "react-icons": "^2.2.7",
+    "react-loader": "^2.4.5",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-tabs": "^2.2.2",
+    "react-test-renderer": "^16.3.2",
+    "react-toastify": "^4.0.1",
+    "redux": "^3.5.2",
+    "redux-mock-store": "^1.5.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "test": "react-scripts test --env=jsdom"
+  }
+}

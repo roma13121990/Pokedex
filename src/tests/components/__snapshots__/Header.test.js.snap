@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render header correctly 1`] = `
+<div
+  style={
+    Object {
+      "background": "#ffffff",
+      "color": "#515673",
+      "fontSize": "1.5em",
+      "left": 0,
+      "padding": 16,
+      "position": "fixed",
+      "right": 0,
+      "textAlign": "left",
+      "top": 0,
+      "zIndex": 99,
+    }
+  }
+>
+  Pokedex
+  <a
+    href="/MyPokemonList"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#f66",
+        "borderRadius": "19px",
+        "color": "#ffffff",
+        "float": "right",
+        "fontSize": "1rem",
+        "padding": "5px 10px",
+        "textDecoration": "none",
+      }
+    }
+  >
+    My Pokemon
+  </a>
+</div>
+`;
